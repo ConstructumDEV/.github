@@ -1,2 +1,2 @@
-# constructum
+# .github
 hello!
